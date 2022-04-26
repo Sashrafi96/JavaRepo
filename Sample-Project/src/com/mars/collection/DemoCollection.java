@@ -87,6 +87,7 @@ public class DemoCollection {
 			System.out.println(std.getName());
 		}
 		
+		System.out.println(st3.equals(st4));
 	
 	}
 
